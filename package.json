@@ -73,5 +73,9 @@
       "./node_modules/jest-enzyme/lib/index.js",
       "./jest.setup.js"
     ]
-  }
+  },
+  "description": "Story book usage demonstration",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
