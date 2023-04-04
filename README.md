@@ -9,7 +9,3 @@ npm install
 npm run storybook
 
 npm run test-storybook -- --coverage
-
-
-
-test mate
